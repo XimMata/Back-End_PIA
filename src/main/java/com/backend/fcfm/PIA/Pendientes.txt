@@ -1,0 +1,18 @@
+
+● Como paciente, quiero poder consultar el listado completo de las especialidades con las que cuento dentro de mi aplicación.. PENDIENTE
+● Como paciente, quiero poder obtener el listado de aquellos médicos cuya especialidad coincide con la especialidad especificada.. CUMPLIDO
+● Como paciente, quiero poder obtener el listado de médicos que tienen disponibilidad en cierto rango de horario.. CUMPLIDO
+● Como paciente, quiero poder obtener el listado de médicos que se encuentren en una ciudad.. CUMPLIDO
+● Como paciente quiero poder combinar los diferentes filtros.. CUMPLIDO
+
+● Como paciente, quiero poder crear una cita para un doctor específico,
+en un horario específico. Dicha cita deberá ser única
+(no es posible agendar al mismo dr en el mismo horario para diferente cliente).. CUMPLIDO
+
+● Como paciente, quiero poder obtener el listado de citas que tengo agendadas en un periodo de dos fechas,
+dicho listado otorgará la información completa de las citas en cuestión, incluyendo su estatus.. CUMPLIDO
+
+● Como paciente, quiero poder obtener el detalle de una cita en específico.. CUMPLIDO
+● Como paciente, quiero poder modificar los detalles de mis citas.. CUMPLIDO
+● Como paciente, quiero poder cancelar mis  citas.. CUMPLIDO
+
